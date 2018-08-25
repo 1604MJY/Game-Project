@@ -220,6 +220,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\house5.cs" />
+    <Compile Include="Assets\house6.cs" />
     <Compile Include="Assets\playercontrol.cs" />
     <Compile Include="Assets\Role.cs" />
     <Compile Include="Assets\runcar.cs" />
